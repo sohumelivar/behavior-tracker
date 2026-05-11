@@ -2,7 +2,9 @@
 function App() {
 	return (
 		<div>
-			Playground
+			<button data-track-click="submit_button">
+        		Submit
+      		</button>
 		</div>
 	)
 }
